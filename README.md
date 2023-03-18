@@ -2,27 +2,32 @@
  This is my personal portfolio website, created using HTML, CSS, and JavaScript. The website showcases my work and skills, and provides information about me and my professional experience.
 
 # Table of Contents
-Features
-Technologies
-Setup
-Usage
-Contributing
-License
-Features
+- Features
+- Technologies
+- Setup
+- Usage
+- Contributing
+- License
+- Features
 The portfolio website includes the following features:
 
 Home page with a brief introduction about me and my skills
+
 Portfolio page with examples of my work
+
 About page with information about my background and experience
+
 Contact page with a form to send me a message
+
 Navigation bar with links to each page
+
 Responsive design that adapts to different screen sizes
 Technologies
-The portfolio website was built using the following technologies:
 
-HTML
-CSS
-JavaScript
+The portfolio website was built using the following technologies:
+- HTML
+- CSS
+- JavaScript
 To set up the website, follow these steps:
 
 Clone the repository to your local machine
